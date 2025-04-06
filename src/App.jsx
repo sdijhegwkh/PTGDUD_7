@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import DataTotalInfo from './DataInfo';
 import Header from './Header';
+import DataTable from './DataTable';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
       <DataTotalInfo />
       </div>
       <div className="footer">
-        <h4>DataTable</h4>
+      <DataTable/>
       </div>
     </div>
   );
