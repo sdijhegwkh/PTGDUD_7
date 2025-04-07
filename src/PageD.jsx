@@ -9,4 +9,4 @@ function PageD() {
   );
 }
 
-export default PageD; // ✅ quan trọng!
+export default PageD; 
