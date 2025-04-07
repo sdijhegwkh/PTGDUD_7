@@ -5,7 +5,7 @@
     "menu header"
     "menu content"
     "menu footer";
-  grid-template-columns: 1fr 3fr; 
+  grid-template-columns: 0.5fr 3fr; 
   gap: 10px; 
   background-color: #fff;
   padding: 10px;
